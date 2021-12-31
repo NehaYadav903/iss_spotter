@@ -1,4 +1,4 @@
-let creditLimit = 5000;
+let creditLimit = 0;
 
 /*
  * Input: number of dollars to loan out
