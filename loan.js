@@ -7,7 +7,7 @@ let creditLimit = 5000;
  */
 const loanOut = function(amount) {
   return new Promise((resolve, reject) => {
-    // empty for now
+    resolve(amount);
   });
 };
   console.log("Asking for $150, which should be okay ...");
